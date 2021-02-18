@@ -6,7 +6,8 @@
       *THis program will output the data from the input file in the 
       *desired output which will be showing the amount of tax a person 
       *has paid according to their province. This will use a fair amount
-      *of logic structure as it deals with lots of ifs.                 
+      *of logic structure as it deals with lots of ifs.
+
        environment division.
        input-output section.
        file-control.
